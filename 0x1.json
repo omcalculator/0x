@@ -1,0 +1,73 @@
+{
+  "bollywood": {
+    "actress": [
+      {
+        "name": "kareena kapoor",
+        "img": [
+          {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          },
+          {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          }
+        ]
+      },
+      {
+        "name": "rashmika mandanna",
+        "img": [
+          {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          },
+          {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  "ai": [
+    {
+      "img": [
+        {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          },
+        {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          }
+      ]
+    }
+  ],
+  "hentai": [
+    {
+      "img":[
+        {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          },{
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          }
+      ]
+    }
+  ],
+  "anime": [
+    {
+      "img":[
+        {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          },
+        {
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080/FB_IMG_1713584329942.jpg",
+            "durl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiMEDWa9IZB7hWmziX_V2L6sbh1fTEo8c7HGfF7eOwOIioHV4ubm4XbbhRvz7XE71gtCa1PVyKwZEjAE7mwnATX9li-5XJ_ZkKgF_EblOpyP1WOQ_mF2yS8wzWTlpUNt77X74eWM5Xq6zP59K1ibZzuHMn9x3nAZcOIfu8GFU8_y0IvxOXuqRTNoP-mM/s1080-d/FB_IMG_1713584329942.jpg"
+          }
+      ]
+    }
+  ]
+}
